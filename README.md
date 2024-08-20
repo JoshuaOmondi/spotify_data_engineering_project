@@ -1,6 +1,6 @@
 # Spotify Data Engineering Project
 
-![My Image](project flow chart.png)
+(project flow chart.png)
 
 
 ## Overview
