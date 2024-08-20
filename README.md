@@ -1,12 +1,11 @@
 # Spotify Data Engineering Project
 
+![Project Flow Chart](images/project%20flow%20chart.png)
 ## Overview
 
 This project demonstrates a basic data engineering workflow. The goal is to extract data from the Spotify API, load it into BigQuery for transformation, and visualize the results using Looker Studio.
 
 ## Project Workflow
-
-![Project Flow Chart](images/project%20flow%20chart.png)
 
 1. **Data Extraction**:
    - Used Python and the Spotipy library to extract data from the Spotify API.
