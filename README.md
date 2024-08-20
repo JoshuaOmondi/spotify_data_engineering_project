@@ -6,7 +6,7 @@ This project demonstrates a basic data engineering workflow. The goal is to extr
 
 ## Project Workflow
 
-![Project Workflow](images/project_flow_chart.png)
+![Project Workflow](images/project flow chart.png)
 
 1. **Data Extraction**:
    - Used Python and the Spotipy library to extract data from the Spotify API.
